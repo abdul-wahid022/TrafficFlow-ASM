@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Traffic Light Banner](images/traffic-banner.png)
+![Traffic Light Banner](images/traffic-banner.png.jpg)
 
 **An Intelligent Intersection Management System Built with x86 Assembly Language**
 
